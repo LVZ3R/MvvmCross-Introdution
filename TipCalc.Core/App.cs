@@ -8,7 +8,7 @@ using TipCalc.Core.Services;
 
 namespace TipCalc.Core
 {
-    class App : MvxApplication
+    public class App : MvxApplication
     {
         public override void Initialize()
         {
